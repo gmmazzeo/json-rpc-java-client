@@ -5,7 +5,7 @@
 
     <groupId>it.zenitlab</groupId>
     <artifactId>json-rpc-java-client</artifactId>
-    <version>1.5</version>
+    <version>1.5.0</version>
     <packaging>jar</packaging>
 
     <name>json-rpc-java-client</name>
@@ -24,7 +24,7 @@
         <dependency>
             <groupId>it.zenitlab</groupId>
             <artifactId>json-rpc-commons</artifactId>
-            <version>1.5</version>
+            <version>1.5.0</version>
         </dependency>
     </dependencies>
 </project>
